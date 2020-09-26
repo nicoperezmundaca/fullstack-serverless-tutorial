@@ -25,3 +25,17 @@ npm install firebase-tools
 firebase login
 firebase init
 ```
+
+4) Install plugins
+```
+npm install redux react-redux redux-form react-router redux-thunk react-loadable
+```
+
+```
+redux: manage states of app (api or firebase)
+react-redux: connect state with components
+redux-form: store form data in redux state
+react-router: handle routes
+redux-thunk: manage effects (connect firebase, execute server logic)
+react-loadable: division of code
+```
