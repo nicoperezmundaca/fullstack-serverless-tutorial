@@ -17,7 +17,7 @@ npx create-react-app my-app --template typescript
 2) Install dependencies
 ```
 npm install --save typescript @types/node @types/react @types/react-dom @types/jest
-npm install -g firebase-tools
+npm install firebase-tools
 ```
 
 3) Init firebase
